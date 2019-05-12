@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Android MessagingService Sample
 ===================================
@@ -92,3 +93,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# MessagingService
+>>>>>>> 021916740055393f8f3ecdb05b26cb6bfaeb8ee2
